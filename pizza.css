@@ -1,3 +1,8 @@
 body {
-  background-color: aquamarine
+  background-color: aquamarine;
+  font-family: 'Homemade apple';
+  text-align: center;
+  text-size-adjust: 200px;
+  background-image: url(https://images.unsplash.com/photo-1518101765384-85b33e231882?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1922&q=80);
+  background-size: cover;
 }
